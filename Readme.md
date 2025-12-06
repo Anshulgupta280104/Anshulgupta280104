@@ -1,12 +1,7 @@
-<h1 align="center">🌟 Hi 👋, I'm <strong>Anshul</strong></h1>
-<h3 align="center">A passionate developer from India — building the future one line of code at a time.</h3>
-
----
-
-## 💫 About Me
-
-💡 Turning ideas into elegant, efficient, and scalable digital experiences.  
-🚀 Always learning, always improving — because good code is never finished.
+<h1 align="center">🌟 Hi there, I'm <strong>Anshul</strong> 👋</h1>
+<p align="center">
+  💡 Passionate developer from India, turning ideas into elegant, efficient, and scalable digital experiences — always learning, always evolving, because great engineering never stops.
+</p>
 
 
 A passionate developer from India

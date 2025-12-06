@@ -1,4 +1,15 @@
-# 💫 About Me:
+<h1 align="center">🌟 Hi 👋, I'm <strong>Anshul</strong></h1>
+<h3 align="center">A passionate developer from India — building the future one line of code at a time.</h3>
+
+---
+
+## 💫 About Me
+
+💡 Turning ideas into elegant, efficient, and scalable digital experiences.  
+🚀 Always learning, always improving — because good code is never finished.
+
+
+A passionate developer from India
 💫 About Me<br><br>🛠️ I’m currently working on:<br>Building scalable web applications using Angular, TypeScript, React, Express.js, and creating responsive, user-friendly UI experiences.<br><br>🤝 I’m looking to collaborate on:<br>Frontend engineering projects, Angular/React component libraries, Express-based backend integrations, and open-source web development initiatives.<br><br>🆘 I’m looking for help with:<br>Advanced Angular patterns, React performance optimization, Express API design, and improving large-scale app architecture.<br><br>📚 I’m currently learning:<br>In-depth Angular architecture, TypeScript best practices, reusable UI components, Express middleware patterns, and frontend performance tuning.<br><br>💬 Ask me about:<br>Web development with Angular, TypeScript, React, Express.js, event-driven UI design, organizing large tech events at Microsoft & Google venues, and community building.<br><br>⚡ Fun fact:<br>I’ve organized 10+ tech events and national-level hackathons with 10k+ participants — blending engineering, leadership, and community impac
 
 

@@ -10,7 +10,17 @@
 
 
 A passionate developer from India
-💫 About Me<br><br>🛠️ I’m currently working on:<br>Building scalable web applications using Angular, TypeScript, React, Express.js, and creating responsive, user-friendly UI experiences.<br><br>🤝 I’m looking to collaborate on:<br>Frontend engineering projects, Angular/React component libraries, Express-based backend integrations, and open-source web development initiatives.<br><br>🆘 I’m looking for help with:<br>Advanced Angular patterns, React performance optimization, Express API design, and improving large-scale app architecture.<br><br>📚 I’m currently learning:<br>In-depth Angular architecture, TypeScript best practices, reusable UI components, Express middleware patterns, and frontend performance tuning.<br><br>💬 Ask me about:<br>Web development with Angular, TypeScript, React, Express.js, event-driven UI design, organizing large tech events at Microsoft & Google venues, and community building.<br><br>⚡ Fun fact:<br>I’ve organized 10+ tech events and national-level hackathons with 10k+ participants — blending engineering, leadership, and community impac
+## 🐤 About Me:
+
+🛠️ I’m currently working on building scalable web applications using **Angular, TypeScript, React, Express.js**, and creating responsive UI experiences.
+
+📚 I’m presently learning **advanced Angular architecture, TypeScript best practices, reusable UI components, Express middleware patterns**, and frontend performance tuning.
+
+🤝 I’m looking for help with **React performance optimization, Express API design, and improving large-scale web app architecture**.
+
+📩 You can contact me at **anshulgupta282004@gmail.com**
+
+⚡ looking forward to learning and contributing in something new.
 
 
 ## 🌐 Socials:

@@ -1,10 +1,8 @@
 <h1 align="center">🌟 Hi there, I'm <strong>Anshul</strong> 👋</h1>
-<p align="center">
+<h3 align="center">
   💡 Passionate developer from India, turning ideas into elegant, efficient, and scalable digital experiences — always learning, always evolving, because great engineering never stops.
-</p>
+</h3>
 
-
-A passionate developer from India
 ## 🐤 About Me:
 
 🛠️ I’m currently working on building scalable web applications using **Angular, TypeScript, React, Express.js**, and creating responsive UI experiences.

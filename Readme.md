@@ -11,7 +11,7 @@
 
 🤝 I’m looking for help with **React performance optimization, Express API design, and improving large-scale web app architecture**.
 
-📩 You can contact me at **anshulgupta282004@gmail.com**
+📩 You can contact me at **anshulgupta9667@GMAIL.COM**
 
 ⚡ looking forward to learning and contributing in something new.
 

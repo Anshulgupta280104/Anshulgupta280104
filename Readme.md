@@ -73,11 +73,12 @@
 
 ---
 
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Anshulgupta280104&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Anshulgupta280104&theme=default_repocard&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Anshulgupta280104&theme=default_repocard&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulgupta280104&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

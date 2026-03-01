@@ -44,6 +44,10 @@
 <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://www.hackerrank.com/profile/anshulgupta28201">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
 ---

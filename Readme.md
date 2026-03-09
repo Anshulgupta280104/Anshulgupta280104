@@ -8,7 +8,7 @@
 
 ## 🐤 About Me
 
-🛠️ I’m currently working on building scalable web applications using **Angular, TypeScript, React, Express.js**, and creating responsive UI experiences.  
+🛠️ I’m currently working on building scalable web applications using **Angular, TypeScript, React.js, Express.js**, and creating responsive UI experiences.  
 
 📚 I’m presently learning **advanced Angular architecture, TypeScript best practices, reusable UI components, Express middleware patterns**, and frontend performance tuning.  
 

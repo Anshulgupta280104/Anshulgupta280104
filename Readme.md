@@ -12,7 +12,7 @@
 
 📚 I’m presently learning **advanced Angular architecture, TypeScript best practices, reusable UI components, Express middleware patterns**, and frontend performance tuning.  
 
-🤝 I’m looking for help with **React performance optimization, Express API design, and improving large-scale web app architecture**.  
+🤝 I’m looking for help with **React performance optimization, Express API design, and improving large-scale web app architecture** .  
 
 📩 You can contact me at **anshulgupta9667@GMAIL.COM**  
 

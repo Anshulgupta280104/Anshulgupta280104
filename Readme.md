@@ -1,157 +1,144 @@
 <div align="center">
 
-# Anshul Gupta
+# 🌟 Hi there, I'm **Anshul** 👋
 
-**Full Stack Developer · Frontend Architect · Web Engineer**
+### 💡 Passionate Developer from India
 
-"turning ideas into elegant, efficient, and scalable digital experiences—always building, always evolving."
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-gupta-64a033283/)
-[![X](https://img.shields.io/badge/@ANSHUL28427230-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ANSHUL28427230)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Anshulgupta280104)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulgupta282004@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/9D1wCFTVNV/)
-
-[![GitHub followers](https://img.shields.io/github/followers/Anshulgupta280104?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/Anshulgupta280104)
+"Turning ideas into elegant, efficient, and scalable digital experiences — always learning, always evolving, because great engineering never stops."
 
 </div>
 
 ---
 
-### 🔷 goto stack
+### 🌐 Connect With Me
 
-`TypeScript` `JavaScript` `Java` `C++` `C`
-`Angular` `React` `Express.js` `Node.js`
-`HTML5` `CSS3` `Figma` `Canva`
-`MySQL` `Git` `GitHub`
-`Component Architecture` `API Design` `Responsive UI` `Performance Optimization`
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-gupta-64a033283/)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ANSHUL28427230)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulgupta282004@gmail.com)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30871505/anshul-gupta)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/9D1wCFTVNV/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anshulgupta28201)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/anshulgupb6t0)
 
-### 🔷 track record
-
-```
-Active Contributor · Full Stack Projects · 450+ LeetCode Problems · GitHub Developer
-```
-
-**Full Stack Developer** — Building scalable web applications with modern frontend frameworks and backend services. Focused on **Angular, React, TypeScript, and Express.js** to deliver responsive, interactive digital experiences.
+</div>
 
 ---
 
-### 🔷 current work
+### 💻 Tech Stack
 
-- **Angular & TypeScript Architecture** — Designing reusable component patterns and enterprise-level application structures
-- **React Applications** — Building performant, interactive UIs with optimization best practices
-- **Express.js APIs** — Crafting robust backend services with middleware patterns and scalable API design
-- **Frontend Performance** — Optimizing web applications for speed, accessibility, and user experience
-- **Full Stack Integration** — Seamlessly connecting frontend experiences with production-grade backends
+#### Languages
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
----
+#### Frameworks & Libraries
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
-### 🔷 technical expertise
-
-**Frontend Excellence**
-- Advanced Angular architecture & reusable component systems
-- React performance optimization & hooks patterns
-- TypeScript best practices & type safety across large codebases
-- Responsive design & CSS3 mastery
-- UI/UX implementation with Figma & Canva
-
-**Backend & Infrastructure**
-- Express.js middleware patterns & API design
-- Node.js server-side development
-- MySQL database design & optimization
-- Git workflows & GitHub collaboration
-
-**Languages**
-- TypeScript (primary)
-- JavaScript (frontend & backend)
-- Java (algorithms & data structures)
-- C++ & C (systems programming)
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-### 🔷 building for scale
+### 🔷 about me
 
-I build applications that grow. From component architecture to API design to performance optimization—I approach each layer with production-grade rigor. I don't ship feature-complete; I ship *maintainable*. Whether it's designing reusable Angular components that scale across teams or architecting Express.js services that handle production load—the principle is the same: clean code, scalable systems, real-world performance.
+I am a passionate developer from India. I believe that great engineering never stops. Whether it's crafting responsive UIs or architecting robust backend APIs, I work to create elegant and efficient digital experiences. Always learning, always evolving.
 
 ---
 
 ### 🔷 currently exploring
 
-- **Advanced Angular Architecture** — Enterprise patterns, lazy loading, state management at scale
-- **React Performance** — Concurrent rendering, code splitting, bundle optimization
-- **Express.js & Node.js** — Scaling APIs, error handling, middleware orchestration
-- **Full Stack Optimization** — Database query efficiency, caching strategies, API performance
-- **Web Standards** — Modern CSS, accessibility (a11y), web performance metrics
+- **Advanced Angular** — reusable component patterns and enterprise-scale architecture
+- **TypeScript & Express** — best practices, type safety, and robust API middleware design
+- **Performance Optimization** — modern techniques for React and general web optimization
+- **System Architecture** — designing and scaling large-scale web applications
 
 ---
 
 ### 📊 stats
 
+
 <div align="center">
 
-#### GitHub Overview
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshulgupta280104&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshulgupta280104&theme=tokyonight" height="180" />
+
+</div>
+
+<div align="center">
+
 <a href="https://github.com/Anshulgupta280104">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshulgupta280104&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" height="210" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshulgupta280104&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
 </a>
 <a href="https://github.com/Anshulgupta280104">
-  <img src="https://streak-stats.demolab.com/?user=Anshulgupta280104&theme=tokyonight&hide_border=true" height="210" />
+  <img src="https://streak-stats.demolab.com/?user=Anshulgupta280104&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
 </a>
 
 </div>
 
 <div align="center">
 
-#### Languages & Activity
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulgupta280104&theme=tokyonight&layout=pie&hide_border=true" height="210" />
-
-</div>
-
----
-
-### 💻 competitive programming
-
-<div align="center">
-
-#### LeetCode
-<a href="https://leetcode.com/u/9D1wCFTVNV/">
-  <img src="https://leetcard.jacoblin.cool/9D1wCFTVNV?theme=dark&font=Montserrat&border=0" height="210" />
+<a href="https://github.com/Anshulgupta280104">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulgupta280104&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
 </a>
 
-#### GeeksforGeeks
-[![GeeksforGeeks](https://img.shields.io/badge/GFG%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/anshulgupb6t0)
-
 </div>
 
 ---
 
-### 🌐 platforms
+### 🏅 leetcode & coding
 
 <div align="center">
-
-**GitHub** · **LeetCode** · **GeeksforGeeks** · **HackerRank** · **StackOverflow**
-
+  <img src="https://leetcard.jacoblin.cool/9D1wCFTVNV?theme=dark&font=Montserrat&border=0" />
 </div>
 
----
-
-### 💼 work with me
-
-I'm open to **full-time roles, internships, and project collaborations** in full-stack development, frontend architecture, or backend engineering.
-
-If you're building production-grade web applications—scalable frontends with Angular or React, robust APIs with Express.js, or full-stack systems that perform—I ship clean, maintainable code and real results.
-
 <div align="center">
-
-[![Hire Me](https://img.shields.io/badge/Let's_Talk-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-gupta-64a033283/)
-[![See My Work](https://img.shields.io/badge/See_My_Work-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anshulgupta280104)
-[![Email Me](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulgupta282004@gmail.com)
-
+  <br>
+  <a href="https://www.hackerrank.com/profile/anshulgupta28201">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/anshulgupb6t0">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <sub>building in public · star a repo if it helped you ⭐</sub>
+  <sub>always learning, always evolving · star a repo if it helped you ⭐</sub>
 </div>
+
+
+---
+
+### 💼 connect with me
+
+I'm currently looking to connect with others on **React performance optimization techniques**, **Express.js API design best practices**, and **large-scale web application architecture**. 
+
+If you want to collaborate or just talk engineering, my inbox is open!
+
+<div align="center">
+
+[![Let's Talk](https://img.shields.io/badge/Let's_Talk-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-gupta-64a033283/)
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulgupta282004@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>always learning, always evolving · star a repo if it helped you ⭐</sub>
+</div>
+
+

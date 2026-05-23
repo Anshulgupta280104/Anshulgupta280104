@@ -91,28 +91,48 @@ I build applications that grow. From component architecture to API design to per
 
 <div align="center">
 
+#### GitHub Overview
 <a href="https://github.com/Anshulgupta280104">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshulgupta280104&theme=tokyonight&show_icons=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshulgupta280104&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" height="210" />
 </a>
 <a href="https://github.com/Anshulgupta280104">
-  <img src="https://streak-stats.demolab.com/?user=Anshulgupta280104&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Anshulgupta280104&theme=tokyonight&hide_border=true" height="210" />
 </a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulgupta280104&theme=tokyonight&layout=compact" height="180" />
+#### Languages & Activity
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulgupta280104&theme=tokyonight&layout=pie&hide_border=true" height="210" />
 
 </div>
 
 ---
 
-### 💻 platforms
+### 💻 competitive programming
 
-<p align="center">
-  <strong>LeetCode</strong> · <strong>HackerRank</strong> · <strong>GeeksforGeeks</strong> · <strong>StackOverflow</strong>
-</p>
+<div align="center">
+
+#### LeetCode
+<a href="https://leetcode.com/u/9D1wCFTVNV/">
+  <img src="https://leetcard.jacoblin.cool/9D1wCFTVNV?theme=dark&font=Montserrat&border=0" height="210" />
+</a>
+
+#### GeeksforGeeks
+[![GeeksforGeeks](https://img.shields.io/badge/GFG%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/anshulgupb6t0)
+
+</div>
+
+---
+
+### 🌐 platforms
+
+<div align="center">
+
+**GitHub** · **LeetCode** · **GeeksforGeeks** · **HackerRank** · **StackOverflow**
+
+</div>
 
 ---
 

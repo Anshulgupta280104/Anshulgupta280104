@@ -65,37 +65,28 @@ I am a passionate developer from India. I believe that great engineering never s
 - **System Architecture** — designing and scaling large-scale web applications
 
 ---
-
-### 📊 stats
-
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshulgupta280104&theme=tokyonight" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshulgupta280104&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnshulGupta280104&theme=tokyonight" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnshulGupta280104&theme=tokyonight" height="180em" />
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/Anshulgupta280104">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshulgupta280104&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-</a>
-<a href="https://github.com/Anshulgupta280104">
-  <img src="https://streak-stats.demolab.com/?user=Anshulgupta280104&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=AnshulGupta280104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180em" />
+
+<img src="https://streak-stats.demolab.com?user=AnshulGupta280104&theme=tokyonight&hide_border=true" height="180em" />
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/Anshulgupta280104">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulgupta280104&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulGupta280104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
 
 </div>
-
----
 
 ### 🏅 leetcode & coding
 

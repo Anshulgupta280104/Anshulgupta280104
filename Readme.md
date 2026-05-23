@@ -1,107 +1,106 @@
-<h1 align="center">🌟 Hi there,I'm <strong>Anshul</strong> 👋</h1>
+# 🌟 Hi there, I'm **Anshul** 👋
 
-<h3 align="center">
-💡 Passionate developer from India, turning ideas into elegant, efficient, and scalable digital experiences — always learning, always evolving, because great engineering never stops.
-</h3>
+<div align="center">
+
+### 💡 Passionate Developer from India
+
+Turning ideas into elegant, efficient, and scalable digital experiences — always learning, always evolving, because great engineering never stops.
+
+</div>
 
 ---
 
 ## 🐤 About Me
 
-🛠️ I’m currently working on building scalable web applications using **Angular, TypeScript, React.js, Express.js**, and creating responsive UI experiences.  
+🛠️ **Currently Working On:**
+- Scalable web applications using **Angular**, **TypeScript**, **React.js**, **Express.js**
+- Creating responsive and interactive UI experiences
 
-📚 I’m presently learning **advanced Angular architecture, TypeScript best practices, reusable UI components, Express middleware patterns**, and frontend performance tuning.  
+📚 **Currently Learning:**
+- Advanced Angular architecture & reusable component patterns
+- TypeScript best practices & type safety
+- Express middleware patterns & API design
+- Frontend performance optimization & web optimization
 
-🤝 I’m looking for help with **React performance optimization, Express API design, and improving large-scale web app architecture** .  
+🤝 **Looking for Help With:**
+- React performance optimization techniques
+- Express.js API design best practices
+- Large-scale web application architecture
 
-📩 You can contact me at **anshulgupta9667@GMAIL.COM**  
+📩 **Contact:** [anshulgupta282004@gmail.com](mailto:anshulgupta282004@gmail.com)
 
-⚡ Looking forward to learning and contributing in something ExtraOrdinary.
-
----
-
-## 🌐 Socials
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/anshul-gupta-64a033283/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.commudle.com/users/Anshulgupta2004">
-<img src="https://img.shields.io/badge/Commudle-5C2D91?style=for-the-badge&logo=community&logoColor=white"/>
-</a>
-
-<a href="https://x.com/ANSHUL28427230">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
-</a>
-
-<a href="mailto:anshulgupta282004@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://stackoverflow.com/users/30871505/anshul-gupta">
-<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/9D1wCFTVNV/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/anshulgupta28201">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/anshulgupb6t0?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</p>
+⚡ **Goal:** Learning and contributing to something extraordinary!
 
 ---
 
-# 💻 Tech Stack
+## 🌐 Connect With Me
 
-<p>
+<div align="center">
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-gupta-64a033283/)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ANSHUL28427230)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulgupta282004@gmail.com)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30871505/anshul-gupta)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/9D1wCFTVNV/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anshulgupta28201)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/anshulgupb6t0)
 
-</p>
+</div>
 
 ---
 
+## 💻 Tech Stack
 
-# 📊 GitHub Stats
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=Anshulgupta280104&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
+### Frameworks & Libraries
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
-![](https://streak-stats.demolab.com/?user=Anshulgupta280104&theme=default_repocard&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulgupta280104&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-### 🔝 Top Contributed Repo
+## 📊 GitHub Statistics
 
-![](https://github-contributor-stats.vercel.app/api?username=Anshulgupta280104&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+
+### 📈 GitHub Overview
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshulgupta280104&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Anshulgupta280104)
+
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anshulgupta280104&theme=default_repocard&hide_border=false)](https://github.com/Anshulgupta280104)
+
+### 🚀 Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulgupta280104&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Anshulgupta280104)
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Anshulgupta280104&icon=0&color=1)](https://visitcount.itsvg.in)
+## 🔝 Most Contributed Repositories
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Anshulgupta280104&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Anshulgupta280104)
+
+---
+
+<div align="center">
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=Anshulgupta280104&icon=0&color=1)](https://visitcount.itsvg.in)
+
+**Made with ❤️ by Anshul**
+
+</div>

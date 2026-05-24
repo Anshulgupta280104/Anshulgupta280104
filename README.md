@@ -69,29 +69,29 @@ I am a passionate developer from India. I believe that great engineering never s
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnshulGupta280104&theme=tokyonight" height="180em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnshulGupta280104&theme=tokyonight" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshulgupta280104&theme=tokyonight" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshulgupta280104&theme=tokyonight" height="180em" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnshulGupta280104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180em" />
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=Anshulgupta280104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180em" />
 
-<img src="https://streak-stats.demolab.com?user=AnshulGupta280104&theme=tokyonight&hide_border=true" height="180em" />
+<img src="https://streak-stats.demolab.com/?user=Anshulgupta280104&theme=tokyonight&hide_border=true" height="180em" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulGupta280104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Anshulgupta280104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180em" />
 
 </div>
 
 ### 🏅 leetcode & coding
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/9D1wCFTVNV?theme=dark&font=Montserrat&border=0" />
+  <img src="https://leetcard.jacoblin.cool/9D1wCFTVNV?theme=dark&font=Montserrat&border=0&cache=1800" />
 </div>
 
 <div align="center">
@@ -102,6 +102,14 @@ I am a passionate developer from India. I believe that great engineering never s
   <a href="https://www.geeksforgeeks.org/profile/anshulgupb6t0">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
+</div>
+
+---
+
+### 🐍 contribution snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anshulgupta280104/Anshulgupta280104/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
 
 ---
@@ -125,11 +133,3 @@ If you want to collaborate or just talk engineering, my inbox is open!
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulgupta282004@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-  <sub>always learning, always evolving · star a repo if it helped you ⭐</sub>
-</div>
-
-

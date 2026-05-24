@@ -106,14 +106,6 @@ I am a passionate developer from India. I believe that great engineering never s
 
 ---
 
-### 🐍 contribution snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anshulgupta280104/Anshulgupta280104/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</div>
-
----
-
 <div align="center">
   <sub>always learning, always evolving · star a repo if it helped you ⭐</sub>
 </div>

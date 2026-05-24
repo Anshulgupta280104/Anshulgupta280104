@@ -70,20 +70,20 @@ I am a passionate developer from India. I believe that great engineering never s
 <div align="center">
 
 <a href="https://github.com/Anshulgupta280104">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anshulgupta280104&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Anshulgupta280104&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" height="180" alt="GitHub stats" />
 </a>
 
 <a href="https://github.com/Anshulgupta280104">
-  <img src="https://streak-stats.demolab.com/?user=Anshulgupta280104&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Anshulgupta280104&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub streak" />
 </a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshulgupta280104&theme=tokyonight" height="180" />
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Anshulgupta280104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" height="180" alt="Top languages" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshulgupta280104&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshulgupta280104&theme=tokyonight" height="180" alt="Repos per language" />
 
 </div>
 

@@ -2,9 +2,9 @@
 
 # 🌟 Hi there, I'm **Anshul** 👋
 
-### 💡 Passionate Developer from India
+### 💡 Product Management Enthusiast & Tech Builder from India
 
-"Turning ideas into elegant, efficient, and scalable digital experiences — always learning, always evolving, because great engineering never stops."
+"Turning user insights into meaningful products — combining product strategy, technology, data, and problem-solving to build experiences that create real impact."
 
 </div>
 
@@ -33,9 +33,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300A4EF.svg?style=for-the-badge&logo=database&logoColor=white)
 
 #### Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -45,7 +44,7 @@
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -53,16 +52,16 @@
 
 ### 🔷 about me
 
-I am a passionate developer from India. I believe that great engineering never stops. Whether it's crafting responsive UIs or architecting robust backend APIs, I work to create elegant and efficient digital experiences. Always learning, always evolving.
+I am a Product Management enthusiast and tech builder from India. I enjoy understanding user problems, translating insights into product requirements, and working with cross-functional teams to turn ideas into impactful digital experiences. With a strong technical foundation in web technologies, I bridge the gap between product, design, and engineering.
 
 ---
 
 ### 🔷 currently exploring
 
-- **Advanced Angular** — reusable component patterns and enterprise-scale architecture
-- **TypeScript & Express** — best practices, type safety, and robust API middleware design
-- **Performance Optimization** — modern techniques for React and general web optimization
-- **System Architecture** — designing and scaling large-scale web applications
+- **Product Strategy** — user research, product discovery, prioritization, and roadmap thinking
+- **Product Analytics** — data analysis, user journeys, market research, and product insights
+- **Product Development** — Agile methodologies, user stories, feature requirements, and sprint execution
+- **Product Growth** — market trends, competitor analysis, user adoption, and growth opportunities
 
 ---
 ### 📊 GitHub Stats
@@ -106,7 +105,7 @@ I am a passionate developer from India. I believe that great engineering never s
 ---
 
 <div align="center">
-  <sub>always learning, always evolving · star a repo if it helped you ⭐</sub>
+  <sub>always learning, always building · star a repo if it helped you ⭐</sub>
 </div>
 
 
@@ -114,9 +113,9 @@ I am a passionate developer from India. I believe that great engineering never s
 
 ### 💼 connect with me
 
-I'm currently looking to connect with others on **React performance optimization techniques**, **Express.js API design best practices**, and **large-scale web application architecture**. 
+I'm currently looking to connect with others on **product strategy, user-centric product development, product analytics, and technology-driven products**.
 
-If you want to collaborate or just talk engineering, my inbox is open!
+If you want to collaborate, exchange ideas, or just talk product and technology, my inbox is open!
 
 <div align="center">
 

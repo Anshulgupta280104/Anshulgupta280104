@@ -55,6 +55,40 @@
 I am a Product Management enthusiast and tech builder from India. I enjoy understanding user problems, translating insights into product requirements, and working with cross-functional teams to turn ideas into impactful digital experiences. With a strong technical foundation in web technologies, I bridge the gap between product, design, and engineering.
 
 ---
+---
+
+### 💼 Experience Across Companies
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="220">
+<img src="mantracare.png" width="160" alt="MantraCare">
+<br><br>
+<b>MantraCare Health Private Limited</b>
+</td>
+
+<td align="center" width="220">
+<img src="commudle.png" width="160" alt="Commudle">
+<br><br>
+<b>Commudle India Private Limited</b>
+</td>
+
+<td align="center" width="220">
+<img src="alltripp.png" width="160" alt="AllTripp">
+<br><br>
+<b>AllTripp</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 
 ### 🔷 currently exploring
 
@@ -123,37 +157,3 @@ If you want to collaborate, exchange ideas, or just talk product and technology,
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulgupta282004@gmail.com)
 
 </div>
----
-
-### 💼 Companies I've Worked With
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="220">
-<img src="./assets/mantracare.png" width="160" alt="MantraCare">
-<br><br>
-<b>MantraCare</b>
-</td>
-
-<td align="center" width="220">
-<img src="./assets/commudle.png" width="160" alt="Commudle">
-<br><br>
-<b>Commudle</b>
-</td>
-
-<td align="center" width="220">
-<img src="./assets/alltripp.png" width="160" alt="AllTripp">
-<br><br>
-<b>AllTripp</b>
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
